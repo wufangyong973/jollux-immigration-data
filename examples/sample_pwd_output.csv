@@ -1,0 +1,2 @@
+case_number,case_status,received_date,employer_name,employer_normalized,job_title,worksite_city,worksite_state,worksite_location,soc_title,wage_rate,wage_unit,wage_level,determination_date,wage_expiration_date
+P-100,Determination Issued,2026-01-10,Example Analytics Inc.,example analytics,Data Analyst,Austin,TX,"Austin, TX",Data Scientists,90000,Year,Level II,2026-02-01,2027-01-31

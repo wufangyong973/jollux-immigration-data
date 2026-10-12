@@ -4,6 +4,7 @@ __pycache__/
 .venv/
 dist/
 build/
+temp_auto_push.bat
 *.egg-info/
 .env
 .env.*
@@ -11,3 +12,5 @@ build/
 *.xlsx
 *.xls
 .DS_Store
+.gitignore
+branch_structure.json

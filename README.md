@@ -60,6 +60,7 @@ The package does not download source files or make network requests.
 
 - [Supported PWD and PERM fields](docs/supported-fields.md)
 - [Quarterly DOL disclosure-data update checklist](docs/quarterly-update-checklist.md)
+- [Sample normalized outputs (synthetic fixtures)](examples/README.md)
 
 ## Official data sources
 
